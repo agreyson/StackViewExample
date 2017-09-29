@@ -9,6 +9,7 @@
 import UIKit
 
 // a comment
+// another comment
 
 class ViewController: UIViewController {
 
